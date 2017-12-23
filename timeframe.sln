@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timeframeServer", "timeframeServer\timeframeServer.csproj", "{553F44DB-EF21-40A8-A6F1-064313A8723F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timeframeClient", "timeframeClient\timeframeClient.csproj", "{0E4F4759-DE44-4F12-BFFD-A44261692255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553F44DB-EF21-40A8-A6F1-064313A8723F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553F44DB-EF21-40A8-A6F1-064313A8723F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553F44DB-EF21-40A8-A6F1-064313A8723F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553F44DB-EF21-40A8-A6F1-064313A8723F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4F4759-DE44-4F12-BFFD-A44261692255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4F4759-DE44-4F12-BFFD-A44261692255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4F4759-DE44-4F12-BFFD-A44261692255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4F4759-DE44-4F12-BFFD-A44261692255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
